@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1362403354 source:d:\c++\snake\main.cpp
+	<graphics.h>
+	<time.h>
+	<vector>
+	<stdio.h>
+
+1266078014 g:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
